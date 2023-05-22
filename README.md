@@ -2,6 +2,11 @@
 
 
 
+
+<p align="left" style='margin: 8px'>
+    <img src="https://github.com/CharlotteBod/CharlotteBod/blob/0223b2b1b68239c61946a39764c62b3479507252/github-contribution-grid-snake.svg" alt="Charlotte stats snake" />
+</p>
+
 <!--
 **CharlotteBod/CharlotteBod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
