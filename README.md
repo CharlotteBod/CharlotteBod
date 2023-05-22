@@ -1,6 +1,10 @@
 ### Hi there, I'm Charlotte ! 👋
 
-
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Symfony and React JS
+- 👯 I’m looking to collaborate on Application development and design
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: 𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : The Rush !
 
 
 <p align="left" style='margin: 8px'>
@@ -8,9 +12,6 @@
 </p>
 
 <!--
-**CharlotteBod/CharlotteBod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
